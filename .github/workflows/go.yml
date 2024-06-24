@@ -1,0 +1,39 @@
+name: Build and Deploy
+on:
+  pull_request:
+    branches:
+      - '**'
+jobs:
+  build-and-deploy:
+    name: Build and Deploy Job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build and Test
+        run: |
+          # Your build and test commands here
+      - name: SonarQube Analysis
+        if: github.event_name == 'pull_request'
+        run: |
+          # Run SonarQube analysis commands
+      - name: Fail the Build for Testing
+        run: exit 1
+        if: github.event_name == 'pull_request' && github.event.action == 'synchronize'
+      - name: Deploy to Elastic Beanstalk
+        if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+        run: |
+          # Deployment commands
+      - name: Notify Deployment Start
+        if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+        run: |
+          # Notification commands for deployment start
+      - name: Notify Deployment Complete
+        if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+        run: |
+          # Notification commands for deployment completion
+
+
+
+
+
+
+
