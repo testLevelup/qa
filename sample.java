@@ -1,5 +1,4 @@
 public class sample {
-
     public static void main(String[] args) {
         
         int a=5;
@@ -13,6 +12,9 @@ public class sample {
              b=temp;
              System.out.println("ascending order \n" + b +"\n"+ a);   
         } 
+        else{
+            System.out.println("ascending order \n" + a +"\n"+ b);  
+        }
         
     }
 }
