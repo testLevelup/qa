@@ -12,7 +12,6 @@ public class sample {
              a=b;
              b=temp;
              System.out.println("ascending order \n" + b +"\n"+ a);   
-
         } 
         
     }
