@@ -13,10 +13,4 @@ at 25/6/24
 
 Test the build failure use case
 
-new commit
-
-test reviewer record
-
-add new member
-
-test
+new lines added
