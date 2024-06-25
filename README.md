@@ -14,3 +14,5 @@ new lines added
 test reviewer
 
 Bugs retesting
+
+commit count
