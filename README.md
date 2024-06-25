@@ -16,3 +16,5 @@ Test the build failure use case
 new commit
 
 test reviewer record
+
+add new member
