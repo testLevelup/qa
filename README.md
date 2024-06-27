@@ -26,9 +26,6 @@ test the req change count
 retest the build failure bug after the deployment
 
 27/6/24
-
-test
-
 build fail
 
 retest
