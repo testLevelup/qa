@@ -22,9 +22,7 @@ retest the build failure bug after the deployment
 
 27/6/24
 build fail
-
 retest
-
 new commit
 
 test the build failure count on user repo score - before build fail
