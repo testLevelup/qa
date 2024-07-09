@@ -42,3 +42,4 @@ test build failure count on user repo score - before build fail
 test again
 
 test------------build failure
+test the build failure - after build failure
