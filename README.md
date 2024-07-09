@@ -32,3 +32,6 @@ test the build failure count on user repo score - after build fail
 2nd commit
 
 retest again
+
+build failure
+again
