@@ -26,3 +26,5 @@ build fail
 retest
 
 new commit
+
+test the build failure count on user repo score
