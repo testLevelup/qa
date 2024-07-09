@@ -34,7 +34,6 @@ test the build failure count on user repo score - after build fail
 retest again
 
 build failure
-again
 
 test build failure count on user repo score - before build fail 
 test again
