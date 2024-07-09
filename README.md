@@ -35,3 +35,5 @@ retest again
 
 build failure
 again
+
+test build failure count on user repo score - before build fail
