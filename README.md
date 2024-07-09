@@ -24,7 +24,6 @@ retest the build failure bug after the deployment
 build fail
 
 retest
-
 new commit
 
 test the build failure count on user repo score - before build fail
