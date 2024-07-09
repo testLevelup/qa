@@ -27,5 +27,7 @@ retest
 
 new commit
 
-test the build failure count on user repo score
+test the build failure count on user repo score - before build fail
 2nd commit
+
+test the build failure count on user repo score - after build fail
