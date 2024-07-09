@@ -8,11 +8,6 @@ Test build failed
 at 25/6/24
 
 Test the build failure use case
-
-new lines added
-
-test reviewer
-
 Bugs retesting
 
 commit count
@@ -31,3 +26,6 @@ build fail
 retest
 
 new commit
+
+test the build failure count on user repo score
+2nd commit
