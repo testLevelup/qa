@@ -23,7 +23,7 @@ jobs:
 
       - name: Fail the Build for Testing
         run: exit 1
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' && github.event_name == 'synchronize'
 
       - name: Deploy to Elastic Beanstalk
         if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
