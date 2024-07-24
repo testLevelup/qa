@@ -54,3 +54,4 @@ Test - skip PRs flow
 dev - main
 develop - main
 development -  main
+master - main
