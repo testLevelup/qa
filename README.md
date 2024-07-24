@@ -55,3 +55,4 @@ dev - main
 develop - main
 development -  main
 master - main
+release - main
