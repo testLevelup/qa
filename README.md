@@ -70,3 +70,4 @@ develop - release
 development - release
 main - release
 backmerge - release
+master - release
