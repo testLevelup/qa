@@ -59,4 +59,3 @@ release - main
 backmerge - main - retest
 
 dev - master
-develop - master
