@@ -49,3 +49,25 @@ test user record
 test the PR creation flow
 
 test the PR close
+
+test the PR reopen flow
+
+Test - skip PRs flow
+dev - main
+develop - main
+development -  main
+master - main
+release - main
+backmerge - main - retest
+
+dev - master
+develop - master
+development - master
+main - master
+backmenrge - master
+release -  master
+
+dev - release
+develop - release
+development - release
+main - release
