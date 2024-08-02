@@ -48,6 +48,8 @@ test user record
 
 test the PR creation flow
 
+test the PR close
+
 test the PR reopen flow
 
 Test - skip PRs flow
@@ -69,3 +71,6 @@ dev - release
 develop - release
 development - release
 main - release
+
+new commit 
++1
