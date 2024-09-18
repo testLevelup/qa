@@ -5,7 +5,7 @@ public class sample {
         int b=3;
         int c=a+b;
         System.out.println("c = "+ c);
-
+        System.out.println("a = "+ a);
         if(b>a){
            int temp=a;
              a=b;
