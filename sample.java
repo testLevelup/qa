@@ -6,6 +6,7 @@ public class sample {
         int c=a+b;
         System.out.println("c = "+ c);
 
+        
         if(b>a){
            int temp=a;
              a=b;
